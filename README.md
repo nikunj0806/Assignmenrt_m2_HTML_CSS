@@ -1,1 +1,1 @@
-# Assignmenrt_m2_HTML_CSS
+# Assignmenrt_M2_HTML_CSS
