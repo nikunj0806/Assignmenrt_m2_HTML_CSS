@@ -1,0 +1,7 @@
+	In how many ways can a CSS be integrated as a web page ?
+Ans
+
+CSS may be added to HTML in three different ways.
+To style a single HTML element on the page, use Inline CSS in a style attribute. 
+By adding CSS to the head section of our HTML document, we can embed an internal stylesheet. 
+We can also connect to an external stylesheet that separates our CSS from our HTML
